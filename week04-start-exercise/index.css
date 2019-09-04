@@ -1,0 +1,7 @@
+#mySpan {
+   border: solid 1px blue;
+   color: white;
+   background-color: dodgerblue;
+   padding: 5px;
+   cursor: pointer;
+}
